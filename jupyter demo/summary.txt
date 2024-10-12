@@ -1,0 +1,2 @@
+in jupyter we deal with data , while in numpy we deal with numerical and statistical models
+in jupyter we have dataframes which can be created by us 1) using python using dictionary 2)excel sheets

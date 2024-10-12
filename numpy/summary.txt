@@ -1,0 +1,5 @@
+in numpy we deal with arrays majorly
+we usually use list of pyhton and convert it to array of numpy
+
+axis 0= rows
+axis 1=colums
